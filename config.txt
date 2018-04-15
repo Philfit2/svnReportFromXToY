@@ -1,0 +1,6 @@
+sJiraDomain:*****
+user:*****
+pass:*****
+sRepoUrl:*****
+from-revision:***** (facultatif)
+to-revision: **** (facultatif)
